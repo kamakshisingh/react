@@ -1,0 +1,19 @@
+.navbar{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    position: fixed;
+    top:0;
+
+    background-color: black;
+    color: white;
+}
+
+a,a:hover, a:active, a:focus{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}

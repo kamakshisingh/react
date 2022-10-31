@@ -1,0 +1,20 @@
+.cont{
+    margin-top: 10vh;
+}
+
+.user-form{
+    width: 20vw;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: space-evenly;
+    align-items: center;
+    
+    border: 1px solid black;
+    border-radius: 1vw;
+}
+
+.in{
+    margin-bottom: 5vh;
+}
